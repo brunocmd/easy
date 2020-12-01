@@ -12,9 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DojoDDD.Business\DojoDDD.Business.csproj" />
-    <ProjectReference Include="..\..\DojoDDD.Model\DojoDDD.Model.csproj" />
-    <ProjectReference Include="..\..\DojoDDD.Repository\DojoDDD.Repository.csproj" />
+    <ProjectReference Include="..\DojoDDD.Business\DojoDDD.Business.csproj" />
+    <ProjectReference Include="..\DojoDDD.Model\DojoDDD.Model.csproj" />
+    <ProjectReference Include="..\DojoDDD.Repository\DojoDDD.Repository.csproj" />
   </ItemGroup>
 
 </Project>
